@@ -1,0 +1,67 @@
+body 
+{
+	font-family: sans-serif;
+	font-size: 0.875em; 
+}
+
+h1, h2
+{
+	font-family:'Georgia', serif;
+}
+
+h1, h2
+{
+	font-weight: normal;
+}
+
+#toc
+{
+  display: table;
+  padding: 7px;
+  border: 1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  font-size: 95%;
+}
+
+.toctitle
+{
+  text-align: center;
+}
+
+#toc ul
+{
+  list-style-type: none;
+  margin-left: 0;
+  padding: 0;
+}
+
+#toc ul ul
+{
+  margin-left: 2em;
+}
+
+div.thumbinner
+{
+  border: 1px solid #c8ccd1;
+  padding: 3px;
+  background-color: #f8f9fa;
+  font-size: 94%;
+  overflow: hidden;
+}
+
+div.tright
+{
+  margin: 0.5em 0 1.3em 1.4em;
+  clear: right;
+  float: right;
+}
+
+h1, h2
+{
+  border-bottom: 1px solid #a2a9b1;
+}
+
+.reflist 
+{
+	column-count: 2;
+}
